@@ -1,7 +1,8 @@
+한화에어로스페이스,Hanwha_Aerospace,012450, 평균매입가: 995000
 LIG넥스원,LIG_Nex1,079550, 평균매입가: 334000
 한화시스템,Hanwha_Systems,272210, 평균매입가: 55400
+HD현대중공업,HD_Hyundai_Heavy_Industries,329180, 평균매입가: 507000
 한화엔진,Hanwha_Engine,082740, 평균매입가: 35250
 동성화인텍,DS_Finetec,033500, 평균매입가: 26973
 팬오션,Pan_Ocean,028670, 평균매입가: 3835
 한화오션,Hanwha_Ocean,042660, 평균매입가: 108500
-HD현대중공업,HD_Hyundai_Heavy_Industries,329180, 평균매입가: 507000
