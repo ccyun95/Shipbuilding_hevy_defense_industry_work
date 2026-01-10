@@ -1,7 +1,8 @@
+Hanwha_Aerospace,012450
 LIG_Nex1,079550
 Hanwha_Systems,272210
+HD_Hyundai_Heavy_Industries,329180
 Hanwha_Engine,082740
 DS_Finetec,033500
 Pan_Ocean,028670
 Hanwha_Ocean,042660
-HD_Hyundai_Heavy_Industries,329180
